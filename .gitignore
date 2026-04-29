@@ -3,3 +3,4 @@ data/processed/
 .ipynb_checkpoints/
 __pycache__/
 *.zip
+powerbi/dashboard.pbix
