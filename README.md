@@ -150,3 +150,18 @@ Data Scientist | Machine Learning Engineer
 PaySim Mobile Money Simulation  
 Source: kaggle.com/datasets/ealaxi/paysim1  
 Original research based on real M-Pesa transaction data from Africa
+
+
+
+
+## 📊 Dashboard Preview
+
+The Power BI dashboard has 3 pages:
+- **Overview** — transaction volume, value, and fraud KPIs
+- **Fraud Analysis** — fraud patterns, detection rule performance  
+- **Customer Segments** — transaction mix, value by type, fraud rates
+
+> The .pbix file exceeds GitHub's 100MB limit.
+> To view the dashboard, download the file from this 
+> Google Drive link: https://drive.google.com/file/d/1_nto_-ht9F_bDv2rhHURyR-CmT8LBfoW/view?usp=sharing
+> Or view the PDF preview in reports/dashboard_preview.pdf
