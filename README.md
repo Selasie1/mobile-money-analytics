@@ -1,4 +1,4 @@
-# 📱 Mobile Money Transaction Analytics — Africa Focus
+#  Mobile Money Transaction Analytics — Africa Focus
 
 > An end-to-end data science project analysing 6.3 million mobile money 
 > transactions using the PaySim dataset, with a focus on fraud detection, 
@@ -7,7 +7,7 @@
 
 ---
 
-## 🏦 Business Context
+##  Business Context
 
 Mobile money is the backbone of financial services across Africa. 
 Platforms like M-Pesa, MTN MoMo, and Vodafone Cash process millions 
@@ -22,7 +22,7 @@ This project analyses transaction behaviour to:
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### Fraud Detection
 | Finding | Value |
@@ -59,7 +59,7 @@ frequency, consistency, and diversity can proxy for credit scoring
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Category | Tools |
 |---|---|
@@ -71,11 +71,11 @@ frequency, consistency, and diversity can proxy for credit scoring
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 **1. Clone the repository**
 ```bash
@@ -106,7 +106,7 @@ Open and run:
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 The Power BI dashboard has 3 pages:
 - **Overview** — transaction volume, value, and fraud KPIs
@@ -115,7 +115,7 @@ The Power BI dashboard has 3 pages:
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 **1. Implement Zero-Balance Fraud Alert**
 Flag any TRANSFER or CASH_OUT that drains an account to zero 
@@ -135,9 +135,9 @@ opportunity across African markets.
 
 ---
 
-## 👤 Author
+##  Author
 
-**Delbert Selasie Pecker**  
+**Selasie**  
 Data Scientist | Machine Learning Engineer  
 📧 delbertpecker@gmail.com  
 🔗 linkedin.com/in/selasie-pecker0a830a145  
@@ -145,7 +145,7 @@ Data Scientist | Machine Learning Engineer
 
 ---
 
-## 📄 Dataset
+##  Dataset
 
 PaySim Mobile Money Simulation  
 Source: kaggle.com/datasets/ealaxi/paysim1  
@@ -154,7 +154,7 @@ Original research based on real M-Pesa transaction data from Africa
 
 
 
-## 📊 Dashboard Preview
+## s Dashboard Preview
 
 The Power BI dashboard has 3 pages:
 - **Overview** — transaction volume, value, and fraud KPIs
